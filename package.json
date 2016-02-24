@@ -17,5 +17,8 @@
     "type": "git",
     "url": "git://github.com/jekrb/1337cat.git"
   },
-  "homepage": "https://github.com/jekrb/1337cat"
+  "homepage": "https://github.com/jekrb/1337cat",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
 }
