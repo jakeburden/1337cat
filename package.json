@@ -2,6 +2,19 @@
   "name": "1337cat",
   "version": "1.0.0",
   "description": "Writeable stream that concatenates all the data as 1337sp34k and calls a callback with the result.",
+  "keywords": [
+    "l33tsp34k",
+    "leetspeek",
+    "leet-speak",
+    "leetspeak",
+    "stream",
+    "l33tsp34k-stream",
+    "concat",
+    "concatenate",
+    "133tcat",
+    "cat",
+    "1337"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "tape test/test.js"
